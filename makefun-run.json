@@ -1,0 +1,21 @@
+{
+  "format": "makefun-run/1",
+  "prompt": {
+    "text": "Build the best three.js tactical FPS (BLACKSITE: PROTOCOL) for make.fun bounty threejs-fps-02",
+    "origin": "user",
+    "via": "web-ai-tools"
+  },
+  "system_prompt": {
+    "status": "withheld",
+    "why": "Multiple web AI tools used; no single system prompt file"
+  },
+  "instructions": {
+    "status": "withheld",
+    "why": "No local instruction files from recorded harness"
+  },
+  "mcp_servers": [],
+  "declared": {
+    "handed_over": true,
+    "reason": "Work done with Google AI Studio / Z.ai / Grok which do not export session logs"
+  }
+}

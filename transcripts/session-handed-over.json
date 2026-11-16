@@ -1,0 +1,17 @@
+{
+  "format": "makefun-session/1",
+  "handed_over": "The game was built using web-based AI coding tools (Google AI Studio, Z.ai, and Grok conversations) that do not export local session files or token-usage logs. No recorded harness session (Claude Code, Cursor, Codex, Superbot, etc.) was available on disk.",
+  "source": "manual-handover",
+  "started_at": "2026-11-16T12:00:00Z",
+  "ended_at": "2026-11-16T19:00:00Z",
+  "messages": [
+    {
+      "role": "user",
+      "content": "Build a complete offline three.js tactical FPS for the make.fun bounty threejs-fps-02 under the name BLACKSITE: PROTOCOL. Requirements: 5v5 vs bots, round-based, buy phase, plant/defuse objective, PC + mobile controls, responsive, distinctive visual identity, credits to blitz/blitzlabx, pure static files, vendor/makefun-threejs.ts unchanged."
+    },
+    {
+      "role": "assistant",
+      "content": "Implemented BLACKSITE: PROTOCOL as a pure ES-module three.js tactical FPS. Delivered full round loop, bot AI, weapons, economy, objectives, lobby, buy menu, HUD, mobile + desktop controls, screenshots, main.ts static server, and OSI-approved MIT license. All work performed in web AI tools that leave no local session files."
+    }
+  ]
+}
