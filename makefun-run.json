@@ -16,6 +16,6 @@
   "mcp_servers": [],
   "declared": {
     "handed_over": true,
-    "reason": "Work done with Google AI Studio / Z.ai / Grok which do not export session logs"
+    "reason": "Work done with Google AI Studio and Grok which do not export session logs"
   }
 }

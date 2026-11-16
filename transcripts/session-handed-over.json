@@ -1,6 +1,6 @@
 {
   "format": "makefun-session/1",
-  "handed_over": "The game was built using web-based AI coding tools (Google AI Studio, Z.ai, and Grok conversations) that do not export local session files or token-usage logs. No recorded harness session (Claude Code, Cursor, Codex, Superbot, etc.) was available on disk.",
+  "handed_over": "The game was built using web-based AI coding tools (Google AI Studio and Grok conversations) that do not export local session files or token-usage logs. No recorded harness session (Claude Code, Cursor, Codex, Superbot, etc.) was available on disk.",
   "source": "manual-handover",
   "started_at": "2026-11-16T12:00:00Z",
   "ended_at": "2026-11-16T19:00:00Z",
